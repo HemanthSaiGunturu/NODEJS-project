@@ -1,0 +1,27 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "This is Readme File.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HemanthSaiGunturu/NODEJS-project.git"
+  },
+  "author": "HemanthSaiGunturu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemanthSaiGunturu/NODEJS-project/issues"
+  },
+  "homepage": "https://github.com/HemanthSaiGunturu/NODEJS-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "slugify": "^1.4.5"
+  }
+}
